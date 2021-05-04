@@ -1,7 +1,5 @@
 # Project-2
 
-#CircleArea.py
-
 #Finding Area of A Circle Using Circumference
 
 # import math library
